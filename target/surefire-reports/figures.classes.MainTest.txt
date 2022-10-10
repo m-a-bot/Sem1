@@ -1,0 +1,55 @@
+-------------------------------------------------------------------------------
+Test set: figures.classes.MainTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 8, Errors: 0, Skipped: 0, Time elapsed: 0.003 sec <<< FAILURE!
+figures.classes.MainTest.test_polyline()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at figures.classes.MainTest.test_polyline(MainTest.java:47)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 15 more
+
+figures.classes.MainTest.test_qgon()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at figures.classes.MainTest.test_qgon(MainTest.java:98)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	... 15 more
+
+figures.classes.MainTest.test_rect()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at figures.classes.MainTest.test_rect(MainTest.java:114)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	... 15 more
+
+figures.classes.MainTest.test_trapeze()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at figures.classes.MainTest.test_trapeze(MainTest.java:130)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	... 15 more
+
+figures.classes.MainTest.test_ngon()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at figures.classes.MainTest.test_ngon(MainTest.java:67)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	... 15 more
+
+figures.classes.MainTest.test_tgon()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at figures.classes.MainTest.test_tgon(MainTest.java:82)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	... 15 more
+
+figures.classes.MainTest.test_circle()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at figures.classes.MainTest.test_circle(MainTest.java:15)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	... 15 more
+
+figures.classes.MainTest.test_segment()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at figures.classes.MainTest.test_segment(MainTest.java:29)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	... 15 more
+

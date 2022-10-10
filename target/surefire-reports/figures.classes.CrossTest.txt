@@ -1,0 +1,109 @@
+-------------------------------------------------------------------------------
+Test set: figures.classes.CrossTest
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 17, Errors: 0, Skipped: 0, Time elapsed: 0.008 sec <<< FAILURE!
+figures.classes.CrossTest.test_polyline()  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at figures.classes.CrossTest.test_polyline(CrossTest.java:150)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 15 more
+
+figures.classes.CrossTest.test_segment1()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at figures.classes.CrossTest.test_segment1(CrossTest.java:30)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	... 15 more
+
+figures.classes.CrossTest.test_qgon()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at figures.classes.CrossTest.test_qgon(CrossTest.java:223)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	... 15 more
+
+figures.classes.CrossTest.test_rect()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at figures.classes.CrossTest.test_rect(CrossTest.java:245)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	... 15 more
+
+figures.classes.CrossTest.test_segment3()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at figures.classes.CrossTest.test_segment3(CrossTest.java:55)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	... 15 more
+
+figures.classes.CrossTest.test_segment6()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at figures.classes.CrossTest.test_segment6(CrossTest.java:88)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	... 15 more
+
+figures.classes.CrossTest.test_trapeze()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at figures.classes.CrossTest.test_trapeze(CrossTest.java:267)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	... 15 more
+
+figures.classes.CrossTest.test_segment4()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at figures.classes.CrossTest.test_segment4(CrossTest.java:66)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	... 15 more
+
+figures.classes.CrossTest.test_segment5()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at figures.classes.CrossTest.test_segment5(CrossTest.java:77)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	... 15 more
+
+figures.classes.CrossTest.test_ngon()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at figures.classes.CrossTest.test_ngon(CrossTest.java:176)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	... 15 more
+
+figures.classes.CrossTest.test_segment10()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at figures.classes.CrossTest.test_segment10(CrossTest.java:132)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	... 15 more
+
+figures.classes.CrossTest.test_segment7()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at figures.classes.CrossTest.test_segment7(CrossTest.java:99)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	... 15 more
+
+figures.classes.CrossTest.test_segment9()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at figures.classes.CrossTest.test_segment9(CrossTest.java:121)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	... 15 more
+
+figures.classes.CrossTest.test_tgon()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at figures.classes.CrossTest.test_tgon(CrossTest.java:199)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	... 15 more
+
+figures.classes.CrossTest.test_segment2()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at figures.classes.CrossTest.test_segment2(CrossTest.java:44)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	... 15 more
+
+figures.classes.CrossTest.test_segment8()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at figures.classes.CrossTest.test_segment8(CrossTest.java:110)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	... 15 more
+
+figures.classes.CrossTest.test_circle()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at figures.classes.CrossTest.test_circle(CrossTest.java:16)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	... 15 more
+
